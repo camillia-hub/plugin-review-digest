@@ -1,0 +1,1 @@
+{"entry": "index.js", "hooks": ["task.review_updated"], "grants": ["comment-task"]}

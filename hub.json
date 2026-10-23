@@ -1,0 +1,1 @@
+{"name": "Review Digest", "slug": "plugin-review-digest", "kind": "plugin", "description": "Posts a compact digest comment whenever a task review is updated.", "version": "1.0.0", "priceMinor": 0, "currency": "USD", "include": ["plugin.json", "index.js", "package.json"]}
